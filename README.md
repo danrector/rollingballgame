@@ -1,0 +1,1 @@
+This game's goal is to collect all the objects.
